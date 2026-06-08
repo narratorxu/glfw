@@ -1,6 +1,4 @@
-﻿cl : 命令行  warning D9002: 忽略未知选项“-std=c11”
-cl : 命令行  warning D9002: 忽略未知选项“-lgdi32”
-  context.c
+﻿  context.c
   egl_context.c
   init.c
   input.c
